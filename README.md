@@ -14,4 +14,7 @@
 * I currently have working the ability to spawn a word into the console and to log character input and decrease the guessesRemaining on wrongful choices(Currently they all are.). The constructors mostly seem to work except for the charSwap part which I am currently developing a solution still I just will not have time to finish it tonight so I will contiue to work on it after turning it in.
 
 * The attempt here was to challenge myself, While I knew this was going to be to hard for me I wanted to see how far I could get with what I knew.
-![alt text]("https://github.com/Kysper/NodeWordGuess/blob/master/nodeguessgame.png")
+
+
+
+![alt text](https://github.com/Kysper/NodeWordGuess/blob/master/nodeguessgame.png)
