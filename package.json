@@ -1,0 +1,25 @@
+{
+  "name": "NodeWordGuess",
+  "version": "1.0.0",
+  "description": "Create a word guessing game in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kysper/NodeWordGuess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kysper/NodeWordGuess/issues"
+  },
+  "homepage": "https://github.com/Kysper/NodeWordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "is-letter": "^1.1.1",
+    "require": "^2.4.20"
+  }
+}
